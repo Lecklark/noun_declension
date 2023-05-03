@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/noun_declension/static/css/main.a283acac.css",
+    "main.js": "/noun_declension/static/js/main.b0d5cb41.js",
+    "index.html": "/noun_declension/index.html",
+    "main.a283acac.css.map": "/noun_declension/static/css/main.a283acac.css.map",
+    "main.b0d5cb41.js.map": "/noun_declension/static/js/main.b0d5cb41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a283acac.css",
+    "static/js/main.b0d5cb41.js"
+  ]
+}
